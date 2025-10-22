@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuduZeroDois/DuduZeroDois/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DuduZeroDois/DuduZeroDois/output/pacman-contribution-graph.svg">
 </picture>
+<br> <br> <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
